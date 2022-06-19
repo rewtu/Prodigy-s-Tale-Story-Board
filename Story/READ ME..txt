@@ -1,0 +1,16 @@
+Prodigy's Tale - Main Story
+	Holds the Main Story it was almost detached from the different world story 
+
+Prodigy's Tale - Scenes
+	Holds the dialog and possible scenes for every conversation
+
+Prodigy's Tale - Possible Entry
+	Holds the Possible add on
+
+
+
+-------------------------------------------------------------------------------------------
+READ ME NOTE
+
+We will create more MS Word to store the clean and usable storyline and store it in different folders
+so by this in early work please be patient with this unclean slate, thankyou -rewtu 06/20/2022
